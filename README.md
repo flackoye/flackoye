@@ -2,7 +2,7 @@
 
 <p align="center">
    CUMT · CS Student <br/>
-   Up the hill, strive hard; down the hill, stay happy.(｀・ω・´) 
+   上坡要努力，下坡要开心.(｀・ω・´) 
 </p>
 
 ---
